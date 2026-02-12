@@ -1,0 +1,28 @@
+# Jekyll configuration for GitHub Pages
+
+# Title of the site
+title: My Jekyll Site
+
+# Description of the site
+description: A simple blog built with Jekyll and GitHub Pages
+
+# URL of the site
+url: "https://<your_username>.github.io/<your_repo>"
+
+# Base URL
+baseurl: "/<your_repo>" # the subpath of your site, e.g., /blog
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from being processed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - potential-other-files
