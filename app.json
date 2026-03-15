@@ -2,7 +2,7 @@
   "macos": {
     "version": "1.0.1",
     "build_number": "2",
-    "download_url": "https://your-server.com/MyApp-macos-1.0.1.zip",
+    "download_url": "https://raw.githubusercontent.com/lzc1022/yinsi/refs/heads/main/%E7%BA%A2%E8%96%AF%E4%BA%91.zip",
     "file_size": 52428800,
     "release_notes": "Bug fixes and improvements"
   },
