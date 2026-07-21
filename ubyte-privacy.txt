@@ -1,0 +1,69 @@
+Privacy Policy
+This Privacy Policy applies to the mobile application "Buck VPN" (the "App"), developed and operated by Hefei U-byte Technology Co., Ltd. ("we", "us", or "our"), We are committed to protecting users' privacy and personal information.
+
+1. Information We Collect
+1.1 Personal Information
+We may collect the following types of personal information:
+
+Email address (for account creation and support)
+Payment information (processed securely through Apple's App Store)
+Device information (iOS version, device model for compatibility)
+App usage analytics (anonymized performance data)
+1.2 VPN Usage Data
+We maintain a strict no-logs policy. We do NOT collect or store:
+
+Your browsing history or websites visited
+DNS queries or IP addresses you connect to
+Data content or traffic destinations
+Connection timestamps or session durations
+2. How We Use Your Information
+We use the collected information for:
+
+Providing and maintaining our VPN service
+Processing payments and managing subscriptions
+Providing customer support and technical assistance
+Improving our app performance and user experience
+Complying with legal obligations
+3. Data Sharing and Disclosure
+We do not sell, trade, or rent your personal information to third parties. We may share information only in the following circumstances:
+
+With your explicit consent
+To comply with legal requirements or court orders
+To protect our rights, property, or safety
+With trusted service providers who assist in our operations (under strict confidentiality agreements)
+4. Data Security
+We implement industry-standard security measures to protect your information:
+
+AES-256 encryption for all VPN traffic
+Secure data transmission using TLS/SSL protocols
+Regular security audits and updates
+Limited access to personal data on a need-to-know basis
+5. Data Retention
+We retain personal information only as long as necessary to provide our services or as required by law. VPN connection logs are not stored due to our no-logs policy.
+
+6. Your Rights
+You have the right to:
+
+Access your personal information
+Correct inaccurate or incomplete data
+Delete your account and associated data
+Object to processing of your personal information
+Data portability (where technically feasible)
+7. Children's Privacy
+Our service is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected such information, we will take steps to delete it promptly.
+
+8. International Data Transfers
+Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data during such transfers.
+
+9. Third-Party Services
+Our app may contain links to third-party websites or services. This privacy policy does not apply to those third-party services. We encourage you to review their privacy policies.
+
+10. Changes to This Policy
+We may update this privacy policy from time to time. We will notify you of any material changes through the app or our website. Your continued use of the service after such changes constitutes acceptance of the updated policy.
+
+11. Contact Us
+If you have any questions about this Privacy Policy or our data practices, please contact us:
+
+Email: privacy@yzjtech25.xyz
+General inquiries: contact@yzjtech25.xyz
+Data Protection Officer: For matters related to data protection and privacy, you can reach our Data Protection Officer at dpo@yzjtech25.xyz
