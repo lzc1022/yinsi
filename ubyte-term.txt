@@ -1,0 +1,39 @@
+Terms of Service
+1. Acceptance of Terms
+By downloading, installing, or using our iOS VPN application ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of these terms, then you may not access the Service.
+2. Description of Service
+Our VPN service provides secure and private internet access through encrypted connections. The Service includes:
+	•	Encrypted internet traffic routing
+	•	IP address masking and location privacy
+	•	Secure connection to public Wi-Fi networks
+	•	Access to geo-restricted content (where legally permitted)
+3. User Responsibilities
+You agree to:
+	•	Use the Service only for lawful purposes
+	•	Not engage in any illegal activities while using our Service
+	•	Not attempt to circumvent any security measures
+	•	Not share your account credentials with others
+	•	Comply with all applicable local, state, and international laws
+4. Prohibited Activities
+You may not use our Service for:
+	•	Any illegal activities or to facilitate illegal activities
+	•	Harassment, abuse, or harm to others
+	•	Spamming or sending unsolicited communications
+	•	Distributing malware or other harmful software
+	•	Violating intellectual property rights
+	•	Any activities that could damage our infrastructure
+5. Privacy and Data Protection
+We are committed to protecting your privacy. Please review our Privacy Policy to understand how we collect, use, and protect your information. We maintain a strict no-logs policy regarding your browsing activities.
+6. Service Availability
+We strive to provide reliable service, but we cannot guarantee 100% uptime. The Service may be temporarily unavailable due to maintenance, updates, or circumstances beyond our control.
+7. Subscription and Payment
+Premium features require a subscription. Payments are processed through Apple's App Store. Subscriptions automatically renew unless cancelled. Refunds are subject to Apple's refund policy.
+8. Limitation of Liability
+To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of the Service.
+9. Termination
+We may terminate or suspend your access to the Service immediately, without prior notice, for conduct that we believe violates these Terms or is harmful to other users or our business.
+10. Changes to Terms
+We reserve the right to modify these Terms at any time. We will notify users of significant changes through the app or our website. Continued use of the Service after changes constitutes acceptance of the new Terms.
+11. Contact Information
+If you have any questions about these Terms, please contact us at:
+hongshuyun@protonmail.com
