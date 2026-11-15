@@ -1,0 +1,33 @@
+{
+  "code": 1,
+  "msg": "数据列表",
+  "page": 1,
+  "pagecount": 0,
+  "limit": 20,
+  "total": 0,
+  "list": [],
+  "class": [
+    {
+      "type_id": 20,
+      "type_pid": 0,
+      "type_name": "电影片"
+    },
+    {
+      "type_id": 21,
+      "type_pid": 20,
+      "type_name": "动作片"
+    },
+    {
+      "type_id": 22,
+      "type_pid": 20,
+      "type_name": "喜剧片"
+    },
+    {
+      "type_id": 23,
+      "type_pid": 20,
+      "type_name": "恐怖片"
+    }
+  ]
+}
+
+
